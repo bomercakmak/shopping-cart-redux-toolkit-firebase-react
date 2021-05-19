@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # To See My Portfolio Website
-[Try It Out Now!]()
+[Try It Out Now!](https://bomercakmak-shopping-cart-redux-toolkit-firebase.netlify.app/)
 
 # Introduction Video of My Portfolio Website
 
-<a href=""><img src="" title=""></a>
+<a href="https://bomercakmak-shopping-cart-redux-toolkit-firebase.netlify.app/"><img src="" title=""></a>
 
 ## Available Scripts
 
