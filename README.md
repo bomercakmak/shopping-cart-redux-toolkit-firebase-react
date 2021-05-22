@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Introduction Video of My Portfolio Website
 
-<a href="https://bomercakmak-shopping-cart-redux-toolkit-firebase.netlify.app/"><img src="./gif/video.gif" title=""></a>
+<a href="https://bomercakmak-shopping-cart-redux-toolkit-firebase.netlify.app/"><img src="./gif/video.gif" title="intro"></a>
 
 ## Available Scripts
 
